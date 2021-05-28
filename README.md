@@ -1,20 +1,5 @@
-# MATHEUS-FURIATTO
-logotipo do gerador de marcação de perfil do github
-Gerador de README de perfil do GitHub
-Marcar este repositório com estrela
-4612
-Fork no GitHub
-875
+                                      # MATHEUS-FURIATTO
 
-Voltar á editar
-
-copy-markdown
-
-download de redução
-
-baixar backup
-
-antevisão
 <h1 align = "center"> Olá, sou MATHEUS FURIATTO </h1>
 <h3 align = "center"> Sou um desenvolvedor de back-end, contribuidor de código aberto e entusiasta de novas tecnologias. </h3>
 
@@ -24,7 +9,7 @@ antevisão
 
 <h3 align =" left "> Conecte-se a mim: </h3>
 <p align =" left ">
-<a href="https://linkedin.com/in/matheus-furiatto" target="blank"> <img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile -readme-generator / neutral-icons / src / images / icons / Social / linked-in-alt.svg "alt =" matheus-furiatto "height =" 30 "width =" 40 "/> </a>
+<a href="https://linkedin.com/in/matheus-furiatto-51aab815b" target="blank"> <img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile -readme-generator / neutral-icons / src / images / icons / Social / linked-in-alt.svg "alt =" matheus-furiatto "height =" 30 "width =" 40 "/> </a>
 <a href = "https://discord.gg/Matheus Furiatto # 1960" target = "blank"> <img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- generator / neutral-icons / src / images / icons / Social / discord.svg "alt =" Matheus Furiatto # 1960 "height =" 30 "width =" 40 "/> </a>
 </p>
 
