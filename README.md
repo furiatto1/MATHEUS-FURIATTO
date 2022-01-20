@@ -1,16 +1,95 @@
-<h1 align = "center"> Olá, sou MATHEUS FURIATTO </h1>
-<h3 align = "center"> Sou um desenvolvedor de back-end, contribuidor de código aberto e entusiasta de novas tecnologias. </h3>
+<h2>Matheus Furiatto <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Gerente de TI no   <a href="https://www.prafrentebrasil.com.br/">Pra Frente Brasil</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-<p align = "left"> <img src = "https://komarev.com/ghpvc/?username=furiatto1&label=Profile%20views&color=0e75b6&style=flat" alt = "furiatto1" /> </p>
 
-<p align = "left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src = "https://github-profile-trophy.vercel.app/?username = furiatto1 "alt =" furiatto1 "/> </a> </p>
+<br>
+<div> 
+<a href="https://instagram.com/matheusfuriatto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:matheusfuriatto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/matheus-furiatto" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div>
 
-<h3 align =" left "> Conecte-se a mim: </h3>
-<p align =" left ">
-<a href="https://linkedin.com/in/matheus-furiatto-51aab815b" target="blank"> <img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg"alt ="matheus-furiatto"height =" 30 "width =" 40 "/> </a>
-<a href = "https://discord.gg/Matheus Furiatto # 1960" target = "blank"> <img align = "center" src = "https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/discord.svg"alt =" Matheus Furiatto # 1960 "height =" 30 "width =" 40 "/> </a>
-</p>
 
-<h3 align = "left"> Idiomas e ferramentas: </h3>
-<p align = "left"> <a href="https://developer.android.com" target="_blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"alt ="bootstrap"width =" 40 "height =" 40 " /> </a> <a href="https://canvasjs.com" target="_blank"> <img src = "https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg"alt ="canvasjs"width =" 40 "height =" 40 "/> </a> <a href =" https://flutter.dev " target = "_ blank"> <img src = "https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt = "flutter" width = "40" height = "40" /> </ a> <a href="https://www.w3.org/html/" target="_blank"> <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"alt ="html5"width =" 40 "height =" 40 "/> </a> <a href =" https://www.linux.org/ "target =" _ em branco "><img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt = "linux" width = "40" height = "40" /> </ a> <a href="https://mariadb.org/" target="_blank"> <img src = "https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt = " mariadb "width =" 40 "height =" 40 "/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"alt ="mongodb"width =" 40 "height =" 40 "/> </a> <a href =" https://www.microsoft.com/en-us/sql-server "target =" _ blank "> <img src ="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg"alt ="mssql"width = "40" height = "40" /> </a> <a href="https://www.mysql.com/" target="_blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg "alt =" mysql "width =" 40 "height =" 40 "/> </a> <a href ="https://nodejs.org "target =" _ blank "> <img src =" https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg "alt =" nodejs "width =" 40 "altura =" 40 "/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg "alt =" photoshop "width =" 40 "height =" 40 "/> </a> <a href =" https://www.php.net "target =" _ blank "> <img src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt ="php"width =" 40 "height =" 40 "/> </a> <a href="https://www.python.org" target="_blank"> <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg "alt = "python" width = "40" height = "40" /> </a> <a href="https://unity.com/" target="_blank"> <img src = "https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"alt =" unidade "largura =" 40 "altura =" 40 "/> </a> </p>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const Furiatto1 = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "HTML", "Java", "PHP", "ADVPL","C"],
+    askMeAbout: ["web dev", "tech", "app dev", "photography","Games"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Fastify", "Express"],
+        },
+        mobileApp: {
+            native: ["Android Development"]
+        },
+        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        databases: ["mongo", "MySql", "sqlite","Mssql"],
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+    },
+     arquitetura : [ "Arquitetura sem servidor" ,  "Aplicativos web progressivos" ,  "Aplicativos de página única" ] , 
+    currentFocus : "Construindo robôs para facilitar operações" , 
+    funFact: "Existem duas maneiras de escrever programas sem erros; apenas a terceira funciona " 
+} ;
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+---
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C137%20hrs%2055%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1027-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 11 Contributions in the Year 2022
+ > 
+> 📦 159.7 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 1 Public Repositories 
+ > 
+> 🔑 20 Private Repositories  
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    50 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.48% 
+🌆 Daytime    153 commits    ██████████░░░░░░░░░░░░░░░   41.24% 
+🌃 Evening    122 commits    ████████░░░░░░░░░░░░░░░░░   32.88% 
+🌙 Night      46 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.4%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Brazil
+
+💬 Programming Languages: 
+JavaScript               18 hrs 41 mins      ███████████████████░░░░░░   77.79% 
+HTML                     1 hr 53 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   7.9% 
+ADVPL                    1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   4.91% 
+JSON                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.62% 
+Markdown                 34 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.42%
+
+🔥 Editors: 
+WebStorm                 24 hrs              █████████████████████████   99.89% 
+DataGrip                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.09% 
+PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
+
+💻 Operating System: 
+Windows                      24 hrs 1 min        █████████████████████████   100.0%
+
+```
+
+**I Mostly Code in JavaScript** 
 
